@@ -1,0 +1,25 @@
+{
+  "name": "pptools-font",
+  "version": "0.3.2",
+  "description": "A tool for ppzuche to update font files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/liucong1/npm.git"
+  },
+  "keywords": [
+    "npm",
+    "font"
+  ],
+  "author": "Liu Cong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liucong1/npm/issues"
+  },
+  "homepage": "https://github.com/liucong1/npm#readme"
+}
+
+    
