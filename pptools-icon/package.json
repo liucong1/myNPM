@@ -1,6 +1,6 @@
 {
-  "name": "pptools-font",
-  "version": "0.3.2",
+  "name": "pptools",
+  "version": "0.1.0",
   "description": "A tool for ppzuche to update font files",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,7 @@
     "npm",
     "font"
   ],
+  "bin": {"pptools":"index.js"},
   "author": "Liu Cong",
   "license": "ISC",
   "bugs": {

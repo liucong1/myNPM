@@ -1,6 +1,8 @@
-'use strict';
+#!/usr/bin/env node
 
-var getfont = require('./lib/downloadFont.js');
-
-//更新文字库文件
-exports.getfont = getfont.downloadFont;
+var font = require('./lib/downloadFont.js');
+if(process.argv[2] == "font" && process.argv[3] == "-u"){
+    font.downloadFont();
+}else{
+    console.log("use 'pptools font -u' to download font files!\n");
+}
