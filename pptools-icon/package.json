@@ -1,6 +1,6 @@
 {
   "name": "pptools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A tool for ppzuche to update font files",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "author": "Liu Cong",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/liucong1/npm/issues"
+    "url": "https://github.com/liucong1/npm/tree/master/pptools-icon"
   },
   "homepage": "https://github.com/liucong1/npm#readme"
 }
